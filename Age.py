@@ -1,4 +1,4 @@
-import tkinter as tk
+import tkinter as tkq
 
 win = tk.Tk()
 win.geometry('500x500')
